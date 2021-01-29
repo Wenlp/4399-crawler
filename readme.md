@@ -2,7 +2,7 @@
 
 ###### 输入：
 
-​	种子URL  http://www.4399.flash/1.htm
+​	种子URL  http://www.4399.com/flash/1.htm
 
 ###### 输出：
 
